@@ -49,11 +49,11 @@
 .col-end-right {
   float: left;
   width: 32%;
-  margin: 10px 0 0 0;
+  margin: 10px 0 0 17;
 }
 
 .col-middle {
   float: left;
   width: 32%;
-  margin: 10px 17px 0 17px;
+  margin: 10px 17 0 0;
 }
