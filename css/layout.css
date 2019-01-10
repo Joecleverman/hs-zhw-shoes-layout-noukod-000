@@ -41,13 +41,13 @@
 }
 
 .col-end-left {
-    float: left;
-    width: 32%;
-    margin: 10px 0 0 0;
+  float: right;
+  width: 32%;
+  margin: 10px 0 0 17;
 }
 
 .col-end-right {
-  float: right;
+  float: left;
   width: 32%;
   margin: 10px 0 0 17;
 }
