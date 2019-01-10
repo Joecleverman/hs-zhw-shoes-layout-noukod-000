@@ -47,7 +47,7 @@
 }
 
 .col-end-right {
-  float: left;
+  float: right;
   width: 32%;
   margin: 10px 0 0 17;
 }
